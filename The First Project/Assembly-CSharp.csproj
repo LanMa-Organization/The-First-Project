@@ -66,6 +66,7 @@
   <ItemGroup>
     <Compile Include="Assets\Game\Scripts\Application\Consts.cs" />
     <Compile Include="Assets\Game\Scripts\Application\Game.cs" />
+    <Compile Include="Assets\Game\Scripts\Application\Misc\Tools.cs" />
     <Compile Include="Assets\Game\Scripts\Framework\MVC\ApplicationBase.cs" />
     <Compile Include="Assets\Game\Scripts\Framework\MVC\Controller.cs" />
     <Compile Include="Assets\Game\Scripts\Framework\MVC\MVC.cs" />

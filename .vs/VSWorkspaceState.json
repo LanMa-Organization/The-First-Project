@@ -4,13 +4,13 @@
     "\\The First Project",
     "\\The First Project\\Assets",
     "\\The First Project\\Assets\\Game",
-    "\\The First Project\\Assets\\Game\\Scenes",
     "\\The First Project\\Assets\\Game\\Scripts",
-    "\\The First Project\\Assets\\Game\\Scripts\\Framework",
-    "\\The First Project\\Assets\\Game\\Scripts\\Framework\\MVC",
+    "\\The First Project\\Assets\\Game\\Scripts\\Application",
+    "\\The First Project\\Assets\\Game\\Scripts\\Application\\1.Model",
+    "\\The First Project\\Assets\\Game\\Scripts\\Application\\Misc",
     "\\The First Project\\Assets\\Game\\Scripts\\Framework\\Pool",
     "\\The First Project\\Assets\\Game\\Scripts\\Framework\\Sound"
   ],
-  "SelectedNode": "\\The First Project\\Assets\\Game\\Scripts\\Framework\\MVC\\Controller.cs",
+  "SelectedNode": "\\The First Project\\Assets\\Game\\Scripts\\Application\\Misc\\Tools.cs",
   "PreviewInSolutionExplorer": false
 }
